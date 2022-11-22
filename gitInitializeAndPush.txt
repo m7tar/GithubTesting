@@ -21,4 +21,9 @@ Editing Commits:
     c. reset: say you have 5 commits and you say reset commit to
     commit 2, it will delete commit 5-3 and make 2 the latest commit.
 
+Branches:
+*. git branch BRANCHNAME //will create a new branch
+*. git branch -a           //will list all branches
+*. git checkout BRANCHNAME // will take you to that branch 
+
  
