@@ -9,4 +9,13 @@ initializing a new repo from PC:
 3. use git add . to add all the new changes. You may use git status again to check on the files.
 4. now commit to git using git commit -m "your changes message".
 4.a. git log --oneline will show the history of commits.
+
+
+Editing Commits:
+3 ways of interacting with commits:
+a. checkout: it shows you a commit of your chosing
+b. revert: it deletes a commit of your choosing.
+c. reset: say you have 5 commits and you say reset commit to
+commit 2, it will delete commit 5-3 and make 2 the latest commit.
+
  
