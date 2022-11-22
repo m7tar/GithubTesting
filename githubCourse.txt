@@ -34,6 +34,6 @@ Inside github repo:
     *.adding aliases to substitute long links:
         //if you are constantly pushong to the same link, you might wanna store that in a variable:
         ex: git remote add origin HTTPlINK
-
+        ex: git remote -v //will show all alises
 
  
