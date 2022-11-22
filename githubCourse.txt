@@ -27,4 +27,8 @@ Branches:
 *. git checkout BRANCHNAME // will take you to that branch 
 *. git merge BRANCHNAME    // will merge that branch with master
 
+Inside github repo:
+1. copy https.
+
+
  
