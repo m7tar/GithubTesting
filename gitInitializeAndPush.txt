@@ -7,5 +7,6 @@ initializing a new repo from PC:
 1. inside the folder you wanna create as a repo type => git init
 2. use git status to see whats addded and whats not.
 3. use git add . to add all the new changes. You may use git status again to check on the files.
-4.
+4. now commit to git using git commit -m "your changes message".
+4.a. git log --oneline will show the history of commits.
  
