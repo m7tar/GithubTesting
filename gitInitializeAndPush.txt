@@ -1,0 +1,11 @@
+Setup Git:
+1. Download and install git //check first with git --version
+2. set username in git using => git config --global user.name "Moukhtar"
+3. set your commit email using => git config --global user.email "TYPE YOUR HERE"   //ps type your primary github mail
+
+initializing a new repo from PC:
+1. inside the folder you wanna create as a repo type => git init
+2. use git status to see whats addded and whats not.
+3. use git add . to add all the new changes. You may use git status again to check on the files.
+4.
+ 

@@ -1,0 +1,6 @@
+1. Generate key using:
+    ssh-keygen -t rsa -b 4096 -C "saw123789@gmail.com"
+2.Copy pub key
+3.in github go to setting > SSH and GPG keys > new ssh key and add your key.
+
+Done.
