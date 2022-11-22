@@ -25,5 +25,6 @@ Branches:
 *. git branch BRANCHNAME //will create a new branch
 *. git branch -a           //will list all branches
 *. git checkout BRANCHNAME // will take you to that branch 
+*. git merge BRANCHNAME    // will merge that branch with master
 
  
